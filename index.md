@@ -11,7 +11,7 @@ homepage:
   text: 个人网站
 ---
 
-# **胡** **赞来**
+# **Zanlai** **Hu**
 
 <!--
 include contact information from the front matter
@@ -23,21 +23,21 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## Education
 
-### **[新南威尔士大学](https://baike.baidu.com/item/%E6%96%B0%E5%8D%97%E5%A8%81%E5%B0%94%E5%A3%AB%E5%A4%A7%E5%AD%A6)** `2018.02 - 2020.02 `
+### **[The University of New South Wales](https://baike.baidu.com/item/%E6%96%B0%E5%8D%97%E5%A8%81%E5%B0%94%E5%A3%AB%E5%A4%A7%E5%AD%A6)** `2018.02 - 2020.02 `
 
-- 信息技术硕士
+- Master of Information Technology
 - GPA:76/100, TOP20%
 
-### **[浙江师范大学](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)** `2013.09 - 2017.07`
+### **[Zhejiang Normal University](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)** `2013.09 - 2017.07`
 
-- 软件工程学士
+- Bachelor of Software Engineering
 - GPA:86/100, TOP10%
 
-## 工作经历
+## Work Experience
 
-### **[埃森哲](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _软件工程师_ `2020.05 - 至今日 `
+### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _Software Engineer_ `2020.05 - 至今日 `
 
 1. 分析客户需求并制定软件开发方案。
 2. 前端页面及通用组件开发，配合后端完成 API 调试。
