@@ -1,25 +1,17 @@
 ---
 layout: cv
 title: Hu Zanlai Resume
-email:
-  url: mailto:klaushu@outlook.com
-  text: klaushu@outlook.com
-wechat:
-  text: "手机/微信: 13867908869"
-homepage:
-  url: https://zanlaihu.github.io/blog
-  text: 个人网站
+# email:
+#   url: mailto:klaushu@outlook.com
+#   text: klaushu@outlook.com
+# wechat:
+#   text: "手机/微信: 13867908869"
+# homepage:
+#   url: https://zanlaihu.github.io/blog
+#   text: 个人网站
 ---
 
 # **Zanlai** **Hu**
-
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
 
 {% include cv-contact.html %}
 
@@ -27,69 +19,78 @@ Supported arguments:
 
 ### **[The University of New South Wales](https://baike.baidu.com/item/%E6%96%B0%E5%8D%97%E5%A8%81%E5%B0%94%E5%A3%AB%E5%A4%A7%E5%AD%A6)** `2018.02 - 2020.02 `
 
-- Master of Information Technology
-- GPA:76/100, TOP20%
+- Master of Information Technology GPA:76/100, TOP20%
 
 ### **[Zhejiang Normal University](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)** `2013.09 - 2017.07`
 
-- Bachelor of Software Engineering
-- GPA:86/100, TOP10%
+- Bachelor of Software Engineering GPA:86/100, TOP10%
 
 ## Work Experience
 
-### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _Software Engineer_ `2020.05 - 至今日 `
+### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _Software Engineer_ `2020.05 - today `
 
-1. 分析客户需求并制定软件开发方案。
-2. 前端页面及通用组件开发，配合后端完成 API 调试。
-3. 配合测试团队完成测试。
-4. 对新入职的应届生进行培训。
+1. Analyze the requirements and formulate a software design plan.
+2. Communicate with UI designers and make UI Mock styles.
+3. Development of screens and common components according to the software design books.
+4. Renovate or reconstruct the old screen, repair the remaining BUGs of the project, continuously improve the product performance, and optimize the user experience.
+5. Cooperate with the back-end developers to complete API debugging and clear the interfaces. Cooperate with the test team to complete the test.
+6. Train new recruits and review the code of newcomers.
 
-## 专业技能
+### **[AIMS Financial Group](https://www.linkedin.com/company/aimsfinancialgroup/)** _Front-end intern_ `2019.05 - 2019.12 `
 
-● 熟练掌握 Angular 并具有大型企业级项目经历。了解 React 基本知识。<br>
-● 熟练掌握 JavaScript、HTML，了解 CSS 基本知识<br>
-● 熟练掌握 Git 及常用 Git 命令<br>
-● 商务级英语能力。<br>
+1. Participated in the UI/UX production of the official website of AIMS Financial Group and its subsidiary: APP SECURITIES.
 
-## 企业项目经历
+## Self Introduction
 
-### 埃森哲
+● More than one year of website front-end development experience. <br>
+● Familiar with JavaScript, HTML, CSS, hava a good perception of UI/UX, aesthetic ability and visual performance ability. <br>
+● Understand jQuery/Angular/React. Familiar with Angular and have more than one year of related project experience. <br>
+● Business-level English proficiency. <br>
+● Have good communication skills, be good at learning and sharing knowledge, and can promote personal and team development. <br>
 
-1. 三井住友银行-在线贷款项目`2020.11 - 2021.05`<br>
-   ● 完全由埃森哲主导的全包独立开发项目。<br>
-   ● 技术栈：Angular、ionic<br>
-   ● 前端：【用户信息变更】【还款】【付款信息登入】相关的一系列页面、【银行账户输入】共通组件的开发。<br>
-   参与了【共通错误处理】的架构层开发。<br>
-   ● 团队规模：70+（由中国和日本埃森哲团队共同负责）。<br>
-2. EDSP（车辆保险项目）`2020.05 - 2020.11`<br>
-   ● 完全由埃森哲主导的全包独立开发项目。<br>
-   ● 技术栈：Angular、ionic<br>
-   ● 前端：【取消/解约】、【付款】相关一系列页面开发。【信用卡支付】通用组件的开发。<br>
-   ● 团队规模：120+（由中国、日本、东南亚的埃森哲团队共同负责）。<br>
+## Enterprise project experience
 
-## 个人项目
+### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)**
 
-### **React 练习项目** [在线查看](https://github.com/zanlaihu/react-practice)
+1. **Bank project**`2020.11 - today`<br>
+   ● Technology stack: Angular, ionic, Akita<br>
+   ● Front end: [User Information Change] [Repayment] [Payment Information Login] related series of pages, [Bank Account Input] [Common Error Handler] and Common components development. <br>
+   ● Update the previous version of codes. <br>
+   ● Team size: 100+ (co-responsible by the Accenture team in China, Japan, and Southeast Asia). <br>
+2. **Insurance project**`2020.05 - 2020.11`<br>
+   ● Technology stack: Angular, ionic, Akita<br>
+   ● Front end: [Cancellation/Cancellation], [Payment] related series of page development. 【Credit Card Payment】and Common components development. <br>
+   ● Team size: 120+ (co-responsible by the Accenture team in China, Japan, and Southeast Asia). <br>
 
-1. 依照 React 官方文档进行的练习项目。<br>
-2. 从 0 开始记录全部过程。<br>
+### **[AIMS Financial Group](https://www.linkedin.com/company/aimsfinancialgroup/)**
 
-### **Angular 练习项目** [在线查看](https://github.com/zanlaihu/angular-practice)
+1. **APP SECURITIES official website**`2019.09 - 2019.12`<br>
+   ● Participate in the design and development of the official website of the subsidiary APP SECURITIES [User Application and Registration].<br>
+1. **AIMS financial group official website** `2019.05 - 2019.09`<br>
+   ● Participate in the design and development of the official website.. <br>
 
-1. Angular + Ant Design 搭建的用于展示内容的网站。<br>
-2. 从 0 开始记录全部过程。<br>
+## Personal project experience
 
-## 荣誉/证书
+### **Google dialogflow based NLP ChatBot** [Link](https://zhuanlan.zhihu.com/p/120079499)
 
-Microsoft Certified: Azure Fundamentals（微软云认证：Azure 基本原理）[在线查阅证书](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
-NAATI（澳大利亚国家级翻译证：英译中）`2018` <br>
-浙江师范大学校长特别奖 `2017` <br>
-浙江师范大学校级奖学金 `2015` <br>
+1. Python Flask is the backend, calling Facebook messenger API and Google dialoglfow API. <br>
+2. Obtain the user's chat history, and send the request to the custom backend after NLP processing, so as to make an appointment, cancel and modify the outpatient clinic. <br>
+3. Technology stack: Python Flask, Facebook imessenger API, Google dialogflow API, MongoDB.
 
-## 致谢
+## Certificate
+Microsoft Certified: Azure Fundamentals [View certificate online](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
+NAATI（Australia National Accreditation Authority for Translators and Interpreters: English to Chinese）`2018` <br>
 
-感谢您花时间阅读我的简历，详细信息可访问我的个人网站:
+## Contact
 
-[https://zanlaihu.github.io/blog](https://zanlaihu.github.io/blog)
+Mobile:13867908869<br>
+E-mail:klaushu@outlook.com<br>
 
-期待能有机会和您共事。
+## Thanks
+
+Thank you for taking the time to read my resume. For more information, please visit:<br><br>
+
+personal website: [https://zanlaihu.github.io/blog](https://zanlaihu.github.io/blog)<br>
+
+<br>
+Looking forward to the opportunity to work with you.

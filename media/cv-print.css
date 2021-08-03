@@ -156,7 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 45pt;
+  font-size: 35pt;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
@@ -242,7 +242,7 @@ li {
 
 a {
   text-decoration: none;
-  color: rgb(20, 116, 151);
+  color: rgb(78, 155, 255);
 }
 
 @media print {

@@ -157,7 +157,7 @@ h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
   /* font-size: 50pt; */
-  font-size: 35pt;
+  font-size: 190%;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
@@ -174,7 +174,7 @@ h1 strong {
 h2 {
   font-family: "Avenir Next", sans-serif;
   /* font-size: 20pt; */
-  font-size: 180%;
+  font-size: 150%;
   text-align: center;
   font-weight: normal;
   display: flex;
@@ -212,10 +212,8 @@ li:before {
 }
 
 li {
-  /*second line indent*/
   padding-left: 2.25em;
   text-indent: -1.25em;
-  /*color: #777;*/
 }
 
 #contact-info {
@@ -223,7 +221,6 @@ li {
   position: relative;
   font-weight: lighter;
   color: #ccc;
-  /* font-family: Menlo,monospace,sans-serif; */
   font-size: 80%;
 }
 
@@ -233,7 +230,7 @@ li {
 
 a {
   text-decoration: none;
-  color: rgb(20, 116, 151);
+  color: rgb(100, 193, 255);
 }
 
 hr {
