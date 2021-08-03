@@ -88,9 +88,6 @@ E-mail:klaushu@outlook.com<br>
 
 ## Thanks
 
-Thank you for taking the time to read my resume. For more information, please visit:<br><br>
-
+Thank you for taking the time to read my resume. For more information, please visit:<br>
 personal website: [https://zanlaihu.github.io/blog](https://zanlaihu.github.io/blog)<br>
-
-<br>
 Looking forward to the opportunity to work with you.
