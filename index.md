@@ -27,14 +27,16 @@ title: Hu Zanlai Resume
 
 ## Work Experience
 
-### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _Software Engineer_ `2020.05 - today `
+### **[PWC](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _Senior Software Enginner_ `2021.09 - now `
+1. Front-end development.
 
-1. Analyze the requirements and formulate a software design plan.
+### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)** _Software Engineer_ `2020.05 - 2021.08 `
+
+1. Analyze the requirements and formulate the software design papers. Develop pages and common components according to the design papers.
 2. Communicate with UI designers and make UI Mock styles.
-3. Development of screens and common components according to the software design books.
-4. Renovate or reconstruct the old screen, repair the remaining BUGs of the project, continuously improve the product performance, and optimize the user experience.
-5. Cooperate with the back-end developers to complete API debugging and clear the interfaces. Cooperate with the test team to complete the test.
-6. Train new recruits and review the code of newcomers.
+3. Renovate or re-repair the old screen, repair the remaining BUGs of the project, continue to improve the product performance, and optimize the user experience.
+3. Cooperate to complete the API debugging and clear the interface. Cooperate with the test team to complete the test.
+4. Train new recruits and review their codes.
 
 ### **[AIMS Financial Group](https://www.linkedin.com/company/aimsfinancialgroup/)** _Front-end intern_ `2019.05 - 2019.12 `
 
@@ -42,11 +44,10 @@ title: Hu Zanlai Resume
 
 ## Self Introduction
 
-● More than one year of website front-end development experience. <br>
-● Familiar with JavaScript, HTML, CSS, hava a good perception of UI/UX, aesthetic ability and visual performance ability. <br>
-● Understand jQuery/Angular/React. Familiar with Angular and have more than one year of related project experience. <br>
-● Business-level English proficiency. <br>
-● Have good communication skills, be good at learning and sharing knowledge, and can promote personal and team development. <br>
+1. Familiar with JavaScript, HTML, CSS, have a good UI/UX perception, aesthetic ability and visual performance ability.
+1. Familiar with Angular and have more than one year of related project experience. Learn about front-end frameworks such as jQuery/React.
+1. Have good communication skills, be good at learning and sharing knowledge, and be able to promote personal and team development.
+1. Business-level English.
 
 ## Enterprise project experience
 
@@ -79,7 +80,6 @@ title: Hu Zanlai Resume
 
 ## Certificate
 Microsoft Certified: Azure Fundamentals [View certificate online](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
-NAATI（Australia National Accreditation Authority for Translators and Interpreters: English to Chinese）`2018` <br>
 
 ## Contact
 
@@ -90,4 +90,4 @@ E-mail:klaushu@outlook.com<br>
 
 Thank you for taking the time to read my resume. For more information, please visit:<br>
 personal website: [https://zanlaihu.github.io/blog](https://zanlaihu.github.io/blog)<br>
-Looking forward to the opportunity to work with you.
+Looking forward to having the opportunity to work with you.
