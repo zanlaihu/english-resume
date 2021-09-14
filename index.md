@@ -53,7 +53,7 @@ title: Hu Zanlai Resume
 
 ### **[Accenture](https://baike.baidu.com/item/%E5%9F%83%E6%A3%AE%E5%93%B2/7102011?fr=aladdin)**
 
-1. **Bank project**`2020.11 - today`<br>
+1. **Bank project**`2020.11 - 2021.08`<br>
    ● Technology stack: Angular, ionic, Akita<br>
    ● Front end: [User Information Change] [Repayment] [Payment Information Login] related series of pages, [Bank Account Input] [Common Error Handler] and Common components development. <br>
    ● Update the previous version of codes. <br>
